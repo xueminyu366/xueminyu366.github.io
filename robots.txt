@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xueminyu322.github.io//sitemap.xml
+Sitemap: https://xueminyu366.github.io//sitemap.xml
